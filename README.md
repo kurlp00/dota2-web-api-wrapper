@@ -10,7 +10,7 @@
   ```javascript
   var Dota2API = require('dota2-web-api');
   
-  var dota2API = new Dota2API('yourkey', 'language');
+  var dota2API = new Dota2API('yourkey', 'en_us');
   ```
   
 ## Functions
