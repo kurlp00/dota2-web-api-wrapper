@@ -155,6 +155,10 @@ DotA2API.prototype.getLeagueListing = function(cb) {
 	});
 };
 
+/*
+ *	Gets league live games.
+ * 	@param {requestCallback} cb - The callback that handles the response.
+ */
 DotA2API.prototype.getLiveLeagueGames = function(cb) {
 	var link = 
 		'api.steampowered.com/IDOTA2Match_570/GetLiveLeagueGames/v0001/?key=' + 
