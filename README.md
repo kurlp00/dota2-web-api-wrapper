@@ -4,6 +4,9 @@
   `npm install dota2-web-api`
 
 ## Usage
+
+  **Get your Steam API Key [here](https://steamcommunity.com/login/home/?goto=%2Fdev%2Fapikey)**
+	
   ```javascript
   var Dota2API = require('dota2-web-api');
   
