@@ -1,5 +1,5 @@
 {
-  "name": "dota-web-api-wrapper",
+  "name": "dota2-web-api-wrapper",
   "version": "1.0.0",
   "description": "dota2 web api wrapper for javascript",
   "main": "DotA2API.js",
