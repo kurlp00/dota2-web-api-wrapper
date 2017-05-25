@@ -5,7 +5,7 @@
 
 ## Usage
   ```javascript
-  var Dota2API = require('@kurlp00/dota2-web-api-wrapper');
+  var Dota2API = require('dota2-web-api');
   
   var dota2API = new Dota2API('yourkey', 'language');
   ```
