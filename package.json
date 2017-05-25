@@ -1,0 +1,26 @@
+{
+  "name": "dota-web-api-wrapper",
+  "version": "1.0.0",
+  "description": "dota2 web api wrapper for javascript",
+  "main": "DotA2API.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurlp00/dota2-web-api-wrapper.git"
+  },
+  "keywords": [
+    "dota2",
+    "api"
+  ],
+  "author": "Kurl Angelo D. Palaganas <palaganaskurl@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurlp00/dota2-web-api-wrapper/issues"
+  },
+  "homepage": "https://github.com/kurlp00/dota2-web-api-wrapper#readme",
+  "devDependencies": {
+    "request": "^2.81.0"
+  }
+}
