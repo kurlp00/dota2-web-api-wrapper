@@ -7,13 +7,14 @@
   ```javascript
   var Dota2API = require('@kurlp00/dota2-web-api-wrapper');
   
-  var dota2API = new Dota2API('yourkey', 'language');```
+  var dota2API = new Dota2API('yourkey', 'language');
+  ```
   
 ## Functions
   
   **Get Heroes** 
   
-  ```
+  ```javascript
   dota2API.getHeroes(function(res) {
     console.log(res);
   );
